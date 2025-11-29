@@ -1,2 +1,2 @@
 # REST API
-Initialize the Reat API, for creating the site
+Initialize the Reat API, for creating the site for BD
