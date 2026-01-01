@@ -1,2 +1,2 @@
 # REST API
-Initialize the Rest API, for creating the site for database. So and we realese
+Initialize the Rest API, for creating the site for database.
